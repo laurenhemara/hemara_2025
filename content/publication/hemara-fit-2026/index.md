@@ -23,5 +23,5 @@ tags:
 featured: true
 links:
 - name: URL
-  url: "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag190/8731891"
+  url: "https://academic.oup.com/ismecommun/article/6/1/ycag190/8731891"
 ---
